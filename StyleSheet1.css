@@ -1,0 +1,43 @@
+﻿body {
+    font-family: Georgia, serif;
+    text-align: center;
+    background-color: #f0e7e7;
+}
+
+
+h1 {
+    text-align: center;
+}
+h3{
+    font-family: 'Sitka Text';
+    color:cornflowerblue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #030c3f;
+   
+}
+
+li {
+    float: left;
+    text-align: center;
+    color: khaki;
+    font-style:oblique;
+    padding: 14px 16px;
+}
+
+li a {
+ display: block;
+ color: white;
+ text-decoration: none;
+}
+
+    li a:hover {
+        color: #599ecf;
+        font-weight: bold;
+    }
+
+
